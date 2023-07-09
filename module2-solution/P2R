@@ -13,3 +13,8 @@ Layout:
   Desktop=all 3 sections should use up equal screen space even while making browser window small and big and use float
   Tablet=first 2 rows should be equal and third should be in next line and take up full line
   Mobile:each row shoul take up a single row
+Each section should have a section title in top left corner in every device
+Dummy text should be pushed down and not collide with the section heading
+Set a black border on both the section and section title region that is 1px thick
+Set the font size of the heading and section title to be 75% larger and 25% larger (respectively) than the font size of the dummy text
+Type lorem and then press tab to get dummy text
