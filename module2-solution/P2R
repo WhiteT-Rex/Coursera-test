@@ -1,0 +1,15 @@
+No inline CSS
+No Bootstrap
+Only CSS grid reference=Lecture 24 Sublime Text
+Media queries=Lecture 23 Sublime Text
+Screen Size:
+  Desktop=992px
+  Tablet=768px-991px
+  Phone=767px
+1 page only
+1 page heading
+3 sections in a row
+Layout:
+  Desktop=all 3 sections should use up equal screen space even while making browser window small and big and use float
+  Tablet=first 2 rows should be equal and third should be in next line and take up full line
+  Mobile:each row shoul take up a single row
